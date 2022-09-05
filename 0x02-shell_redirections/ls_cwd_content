@@ -1,5 +1,5 @@
 total 52
-drwxr-xr-x 2 root root   269 Sep  5 10:15 .
+drwxr-xr-x 2 root root   269 Sep  5 10:56 .
 drwxr-xr-x 6 root root   212 Sep  5 03:45 ..
 -rwxr--r-- 1 root root    30 Sep  5 06:22 0-hello_world
 -rw-r--r-- 1 root root    12 Sep  5 07:22 1-confused_smiley
@@ -10,8 +10,8 @@ lrwxrwxrwx 1 root root    21 Sep  5 05:19 .#2-hellofile -> root@aafebcad966e.427
 -rwxr--r-- 1 root root    33 Sep  5 07:24 5-firstlines
 -rwxr--r-- 1 root root    37 Sep  5 09:36 6-third_line
 lrwxrwxrwx 1 root root    21 Sep  5 08:05 .#7-file -> root@aafebcad966e.771
--rwxr--r-- 1 root root    83 Sep  5 09:59 7-file
--rwxr--r-- 1 root root    35 Sep  5 10:14 8-cwd_state
--rw-r--r-- 1 root root     0 Sep  5 10:15 ls_cwd_content
--rw-r--r-- 1 root root    36 Sep  5 10:15 README.md
+-rwxr--r-- 1 root root   101 Sep  5 10:49 7-file
+-rwxr--r-- 1 root root    36 Sep  5 11:08 8-cwd_state
+-rw-r--r-- 1 root root     0 Sep  5 11:09 ls_cwd_content
+-rw-r--r-- 1 root root    32 Sep  5 11:09 README.md
 -rw------- 1 root root 12288 Sep  5 09:28 .swp
