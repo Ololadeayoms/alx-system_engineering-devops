@@ -8,3 +8,4 @@ love is anterior to life
 decimal
 progress
 Awseome
+upper
