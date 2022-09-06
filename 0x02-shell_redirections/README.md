@@ -4,3 +4,5 @@ hohh
 great
 great job
 ate
+Replace
+replace all
