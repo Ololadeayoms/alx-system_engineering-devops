@@ -5,3 +5,4 @@ global variable
 every addition
 Awesome
 love is anterior to life
+decimal
