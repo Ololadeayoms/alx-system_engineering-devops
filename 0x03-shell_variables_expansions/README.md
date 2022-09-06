@@ -9,3 +9,4 @@ decimal
 progress
 Awseome
 upper
+boss
