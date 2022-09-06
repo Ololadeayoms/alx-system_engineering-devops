@@ -6,3 +6,4 @@ great job
 ate
 Replace
 replace all
+remove all letters
