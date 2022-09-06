@@ -1,1 +1,2 @@
 global variables
+local variables
