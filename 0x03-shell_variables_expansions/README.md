@@ -11,3 +11,4 @@ Awseome
 upper
 boss
 export
+alias
